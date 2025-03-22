@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="_9_Palindrome-number" />
         <module name="_13_Roman-to-integer" />
+        <module name="_20_Valid-parentheses" />
+        <module name="_9_Palindrome-number" />
         <module name="_26_Remove_Duplicates_from_Sorted_Array" />
+        <module name="_14_Longest-common-prefix" />
         <module name="_1_two-sums" />
         <module name="_80-Remove-Duplicates-from-Sorted-Array-II" />
       </profile>
