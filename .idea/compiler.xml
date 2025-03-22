@@ -6,13 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="_125_Valid-palindrome" />
         <module name="_13_Roman-to-integer" />
-        <module name="_20_Valid-parentheses" />
         <module name="_9_Palindrome-number" />
         <module name="_26_Remove_Duplicates_from_Sorted_Array" />
-        <module name="_14_Longest-common-prefix" />
         <module name="_1_two-sums" />
+        <module name="_83_Remove-duplicates-from-sorted-list" />
+        <module name="_121_Best-time-to-buy-and-sell-stock" />
         <module name="_80-Remove-Duplicates-from-Sorted-Array-II" />
+        <module name="_20_Valid-parentheses" />
+        <module name="_88_Merge-sorted-array" />
+        <module name="_14_Longest-common-prefix" />
+        <module name="_35_Search-insert-position" />
+        <module name="_58_Length-of-last-word" />
+        <module name="_136_Single-number" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/_121_Best-time-to-buy-and-sell-stock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_121_Best-time-to-buy-and-sell-stock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_125_Valid-palindrome/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_125_Valid-palindrome/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_136_Single-number/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_136_Single-number/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_13_Roman-to-integer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_13_Roman-to-integer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_14_Longest-common-prefix/src/main/java" charset="UTF-8" />
@@ -11,8 +17,16 @@
     <file url="file://$PROJECT_DIR$/_20_Valid-parentheses/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_26_Remove_Duplicates_from_Sorted_Array/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_35_Search-insert-position/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_35_Search-insert-position/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_58_Length-of-last-word/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_58_Length-of-last-word/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_80-Remove-Duplicates-from-Sorted-Array-II/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_80-Remove-Duplicates-from-Sorted-Array-II/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_83_Remove-duplicates-from-sorted-list/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_83_Remove-duplicates-from-sorted-list/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_88_Merge-sorted-array/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_88_Merge-sorted-array/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_9_Palindrome-number/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_9_Palindrome-number/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
