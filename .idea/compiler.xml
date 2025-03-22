@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_9_Palindrome-number" />
+        <module name="_13_Roman-to-integer" />
+        <module name="_26_Remove_Duplicates_from_Sorted_Array" />
+        <module name="_1_two-sums" />
+        <module name="_80-Remove-Duplicates-from-Sorted-Array-II" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
